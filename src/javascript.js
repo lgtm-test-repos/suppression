@@ -1,4 +1,4 @@
 let x = {
-	name: "human",
+	name: "human", // lgtm
 	name: "robot",
 };

@@ -1,5 +1,5 @@
 class CSharp {
 	static void Main() {
-		String name = "human";
+		String name = "human"; // lgtm
 	}
 }
